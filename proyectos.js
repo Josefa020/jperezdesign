@@ -9,10 +9,10 @@ const datosProyectos = [
   },
   {
     "id": "2025",
-    "titulo": "Alicate Universal",
-    "subtitulo": "Ergonomía",
+    "titulo": "Escenario observatorio",
+    "subtitulo": "Industrial",
     "enlace": "proyecto-2.html",
-    "imagen_url": "assets/proyecto2.webp"
+    "imagen_url": "assets/proyecto2.jpg"
   },
   {
     "id": "2025",
@@ -40,7 +40,7 @@ const datosProyectos = [
     "titulo": "El cuerpo paciente",
     "subtitulo": "Crítico",
     "enlace": "proyecto-6.html",
-    "imagen_url": "assets/proyecto6.webp"
+    "imagen_url": "assets/proyecto6.jpg"
   }
 ];
 
